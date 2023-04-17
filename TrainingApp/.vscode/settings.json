@@ -1,0 +1,23 @@
+{
+    "editor.wordWrap": "off",
+    "editor.defaultFormatter": "formulahendry.code-runner",
+    "editor.formatOnSaveMode": "modifications",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+    
+
+        "source.fixAll": true
+    },
+    "html.format.indentHandlebars": false,
+    "html.format.indentInnerHtml": false,
+    "html.format.extraLiners": "",
+    "html.format.templating": true,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "javascript.format.enable": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
